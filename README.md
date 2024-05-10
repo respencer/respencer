@@ -22,12 +22,13 @@ fields_of_interests:
   ]
 currently_learning:
   [
+    "Ansible",
     "Docker",
     "Ruby",
   ]
 2024 Goals:
   [
-    "Not compleletly loose my mind",
+    "Not completely lose my mind",
     "Get organized",
     "Slow down",
     "Find peace",
@@ -38,3 +39,4 @@ hobbies:
     "Sleep",
   ]
 ```
+
