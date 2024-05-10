@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hello
 
-<!--
-**respencer/respencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
 
-Here are some ideas to get you started:
+![Roberts's GitHub stats](https://github-readme-stats.vercel.app/api?username=respencer&show_icons=true&bg_color=ffffff&hide_border=true&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Roberts's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=respencer&hide_border=true&mode=weekly&date_format=Y-m-d)
+
+## About
+
+```yaml
+name: Robert Spencer
+located_in: Cape Town, South Africa
+current_job: Linux Engineer
+education: Self-Taught
+company: Linux Based Systems Design
+
+fields_of_interests:
+  [
+    "Minimalism",
+    "Web Development",
+  ]
+currently_learning:
+  [
+    "Docker",
+    "Ruby",
+  ]
+2024 Goals:
+  [
+    "Not compleletly loose my mind",
+    "Get organized",
+    "Slow down",
+    "Find peace",
+  ]
+hobbies:
+  [
+    "Tired",
+    "Sleep",
+  ]
+```
