@@ -23,15 +23,16 @@ fields_of_interests:
 currently_learning:
   [
     "Ansible",
-    "Docker",
-    "Ruby",
+    "QML",
+    "Visual Studio Code",
   ]
-2024 Goals:
+2025 Goals:
   [
     "Not completely lose my mind",
     "Get organized",
     "Slow down",
     "Find peace",
+    "Keep my plants alive",
   ]
 hobbies:
   [
