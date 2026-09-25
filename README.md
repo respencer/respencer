@@ -2,7 +2,7 @@
 
 ## Stats
 
-![Roberts's GitHub stats](https://github-readme-stats.vercel.app/api?username=respencer&show_icons=true&bg_color=ffffff&hide_border=true&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Roberts's GitHub stats](https://github-stats-extended.vercel.app/api?username=respencer&show_icons=true&bg_color=ffffff&hide_border=true&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Roberts's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=respencer&hide_border=true&mode=weekly&date_format=Y-m-d)
 
