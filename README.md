@@ -26,7 +26,7 @@ currently_learning:
     "QML",
     "Visual Studio Code",
   ]
-2025 Goals:
+goals:
   [
     "Not completely lose my mind",
     "Get organized",
